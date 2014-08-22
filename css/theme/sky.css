@@ -143,3 +143,12 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #3b759e; }
+
+.reveal section code {
+  background: #FFC;
+}
+
+.reveal section img {
+  box-shadow: none;
+  border: none;
+}
